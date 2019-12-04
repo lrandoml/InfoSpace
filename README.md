@@ -2,4 +2,6 @@
 
 Retrouvez dans ce dépot :
 
-+ Fichier de configuration [Visual Studio Code](https://code.visualstudio.com)
+|DESCRIPTION|NOM FICHIER|
+|:--|:--|
+|Fichier de configuration **Visual Studio Code**|[vscode-settings.json](https://github.com/jasonchampagne/WorkSpace/blob/master/vscode-settings.json)|

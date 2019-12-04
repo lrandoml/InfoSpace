@@ -1,2 +1,5 @@
 # WorkSpace
-Mon espace de travail et configurations
+
+Retrouvez dans ce dépot :
+
++ Mon fichier de configuration Visual Studio Code

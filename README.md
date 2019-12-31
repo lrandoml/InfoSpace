@@ -2,7 +2,7 @@
 
 Retrouvez dans ce dépot :
 
-|DESCRIPTION|NOM FICHIER|
+|NOM|DESCRIPTION|
 |:--|:--|
-|Fichier de configuration **Visual Studio Code**|[vscode-settings.json](https://github.com/jasonchampagne/WorkSpace/blob/master/vscode-settings.json)|
-|Réglages de **Nomacs**|[nomacs.ini](https://github.com/jasonchampagne/WorkSpace/blob/master/nomacs.ini)|
+|[vscode-settings.json](https://github.com/jasonchampagne/WorkSpace/blob/master/vscode-settings.json)|Fichier de configuration **Visual Studio Code**|
+|[nomacs.ini](https://github.com/jasonchampagne/WorkSpace/blob/master/nomacs.ini)|Réglages de **Nomacs**|

@@ -1,7 +1,5 @@
 # WorkSpace
 
-Retrouvez dans ce dépot :
-
 |NOM|DESCRIPTION|TYPE|LOGICIEL|
 |:--|:--|:--|:--|
 |[nomacs.ini](https://github.com/jasonchampagne/WorkSpace/blob/master/nomacs.ini)|Réglages de **Nomacs**|Visionneuse d'images|[nomacs.org](https://nomacs.org)|

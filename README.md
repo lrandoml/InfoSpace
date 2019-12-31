@@ -1,4 +1,4 @@
-# WorkSpace
+# Espace de travail
 
 |NOM|DESCRIPTION|TYPE|LOGICIEL|
 |:--|:--|:--|:--|

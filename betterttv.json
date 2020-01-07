@@ -1,0 +1,10 @@
+{
+	"bttv_showDeletedMessages":true,
+	"bttv_disableFPVideo":true,
+	"bttv_splitChat":false,
+	"bttv_hideOfflineFollowedChannels":true,
+	"bttv_disableHostMode":true,
+	"bttv_hideFriends":true,
+	"bttv_hideRecommendedFriends":true,
+	"bttv_hideFeaturedChannels":false
+}

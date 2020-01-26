@@ -1,4 +1,4 @@
-# Mon environnement de travail
+# Mon environnement informatique (travail et loisirs)
 
 À venir...
 

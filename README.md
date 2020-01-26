@@ -1,4 +1,12 @@
-# Espace de travail
+# Mon espace de travail
+
+À venir...
+
+---
+
+## Fichiers de configuration
+
+Quelques fichiers de configurations de certains de mes logiciels et/ou extensions.
 
 |NOM|DESCRIPTION|TYPE|LOGICIEL|
 |:--|:--|:--|:--|

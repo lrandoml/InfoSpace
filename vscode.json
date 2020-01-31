@@ -9,5 +9,5 @@
     "php.validate.executablePath": "C:/WAMP/php/php.exe",
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "window.zoomLevel": 2,
+    "window.zoomLevel": 1,
 }

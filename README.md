@@ -8,10 +8,10 @@ Je teste très souvent beaucoup de logiciels et utilitaires. En conséquence, le
 
 Quelques fichiers de configurations de certains de mes logiciels et/ou extensions.
 
-|NOM|DESCRIPTION|TYPE|LOGICIEL|
+|NOM|DESCRIPTION|TYPE|OUTIL|
 |:--|:--|:--|:--|
-|betterttv.json|Paramètres **BetterTTV** (Twitch)|Extension navigateur|[betterttv.com](https://betterttv.com)|
-|vscode.json|Paramètres **Visual Studio Code**|Éditeur de code|[code.visualstudio.com](https://code.visualstudio.com)|
+|betterttv.json|Paramètres **BetterTTV** (Twitch)|Extension navigateur|[BetterTTV](https://betterttv.com)|
+|vscode.json|Paramètres **Visual Studio Code**|Éditeur de code|[Visual Studio Code](https://code.visualstudio.com)|
 
 ---
 

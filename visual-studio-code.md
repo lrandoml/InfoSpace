@@ -19,3 +19,8 @@
 	"window.zoomLevel": 1,
 }
 ```
+
+## Extensions installées
+
++ French Language Pack for Visual Studio Code
++ Apache Conf

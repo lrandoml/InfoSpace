@@ -1,6 +1,6 @@
 # Visual Studio Code
 
-![Logo de Microsoft VSCode](https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png)
+<center>![Logo de Microsoft VSCode](https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png)</center>
 
 ## Configuration de settings.json
 

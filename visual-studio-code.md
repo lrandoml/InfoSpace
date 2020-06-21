@@ -1,6 +1,6 @@
 # Visual Studio Code
 
-> [Visual Studio Code](https://code.visualstudio.com/) est un éditeur de code gratuit, open-source et multi-plateforme.
+![Logo de Microsoft VSCode](https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png)
 
 ## Configuration de settings.json
 

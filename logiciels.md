@@ -1,7 +1,9 @@
 # Logiciels
 
 > **SOMMAIRE**
-> + [Programmation / Web](#programmation-web)
+> + [Programmation / Web](#programmation--web)
+
+---
 
 ## Programmation / Web
 

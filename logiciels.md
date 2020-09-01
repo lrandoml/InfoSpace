@@ -3,14 +3,11 @@
 Petit listing des logiciels que j'utilise au quotidien, avec pour certains les configurations spécifiques pour mon usage.
 
 > **SOMMAIRE**
-> + [**Programmation / Web**](#programmation--web)
-> 	+ [Visual Studio Code](#visual-studio-code)
+> [Visual Studio Code](#visual-studio-code)
 
 ---
 
-## Programmation / Web
-
-### [Visual Studio Code](https://code.visualstudio.com/)
+## [Visual Studio Code](https://code.visualstudio.com/)
 
 ![Logo de Microsoft VSCode](https://user-images.githubusercontent.com/4087713/29303914-79fbaa14-8166-11e7-813b-826c6c4949a6.png)
 

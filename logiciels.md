@@ -3,7 +3,7 @@
 Petit listing des logiciels que j'utilise au quotidien, avec pour certains les configurations spécifiques pour mon usage.
 
 > **SOMMAIRE**
-> + [Programmation / Web](#programmation--web)
+> + [**Programmation / Web**](#programmation--web)
 > 	+ [Visual Studio Code](#visual-studio-code)
 
 ---

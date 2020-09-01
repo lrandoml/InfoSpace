@@ -2,4 +2,6 @@
 
 Ce dépôt rassemble tout ce qui concerne mon environnement informatique :
 
-+ [favoris (sites web)](https://github.com/jasonchampagne/InfoSpace/blob/master/favoris.md)
++ [logiciels](https://github.com/jasonchampagne/InfoSpace/blob/master/logiciels.md)
++ [matériels](https://github.com/jasonchampagne/InfoSpace/blob/master/materiels.md)
++ [sites web)](https://github.com/jasonchampagne/InfoSpace/blob/master/sites-web.md)

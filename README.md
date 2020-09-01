@@ -1,5 +1,5 @@
-# Mon environnement informatique
+# InfoSpace
 
-Les configurations des différents logiciels que j'utilise pour mon travail ou le divertissement.
+Ce dépôt rassemble tout ce qui concerne mon environnement informatique :
 
-+ [Visual Studio Code](https://github.com/jasonchampagne/InfoSpace/blob/master/visual-studio-code.md)
++ [favoris (sites web)]()

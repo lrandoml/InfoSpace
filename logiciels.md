@@ -4,6 +4,7 @@ Petit listing des logiciels que j'utilise au quotidien, avec pour certains les c
 
 > **SOMMAIRE**
 > + [Programmation / Web](#programmation--web)
+> 	+ [Visual Studio Code](#visual-studio-code)
 
 ---
 

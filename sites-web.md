@@ -1,3 +1,3 @@
-# Favoris
+# Sites web
 
 À venir...

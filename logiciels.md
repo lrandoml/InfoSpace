@@ -10,7 +10,7 @@ Petit listing des logiciels que j'utilise au quotidien, avec pour certains les c
 
 ## Edge Chromium
 
-
+![Logo d'Edge Chromium](https://nsa40.casimages.com/img/2020/09/01/200901085519215466.png)
 
 ## Visual Studio Code
 

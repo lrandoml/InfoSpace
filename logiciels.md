@@ -22,8 +22,8 @@ Petit listing des logiciels que j'utilise au quotidien, avec pour certains les c
 
 #### Contribuer à l’amélioration de Microsoft Edge
 
-+ Améliorer les produits Microsoft en envoyant des données sur la manière dont vous utilisez le navigateur : OFF
-+ Améliorez les recherches et les produits Microsoft en envoyant des informations sur les sites web que vous visitez dans Microsoft Edge : OFF
++ Améliorer \[...\] envoyant des données sur la manière dont vous utilisez le navigateur : OFF
++ Améliorez les recherches \[...\] envoyant des informations sur les sites web que vous visitez dans Microsoft Edge : OFF
 
 ---
 

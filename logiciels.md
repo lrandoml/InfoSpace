@@ -11,6 +11,12 @@
 
 ![Logo de Discord](https://nsa40.casimages.com/img/2020/09/29/200929091822212346.png)
 
+### Configuration (paramètres utilisateur)
+
+|DESCRIPTION|ÉTAT|
+|:--|:--:|
+|Utiliser les données pour améliorer Discord|❌|
+
 ---
 
 ## Edge Chromium

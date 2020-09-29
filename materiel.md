@@ -1,3 +1,3 @@
-# Matériels
+# Matériel
 
 À venir...

@@ -23,13 +23,19 @@
 + Améliorer \[...\] envoyant des données sur la manière dont vous utilisez le navigateur : OFF
 + Améliorez les recherches \[...\] envoyant des informations sur les sites web que vous visitez dans Microsoft Edge : OFF
 
+### Extensions
+
++ BetterTTV
++ Stylus
++ uBlock Origin
+
 ---
 
 ## Visual Studio Code
 
 ![Logo de Microsoft VSCode](https://user-images.githubusercontent.com/4087713/29303914-79fbaa14-8166-11e7-813b-826c6c4949a6.png)
 
-### Configuration (settings.json) :
+### Configuration (settings.json)
 
 ```json
 {
@@ -47,7 +53,7 @@
 }
 ```
 
-### Extensions :
+### Extensions
 
 + Apache Conf
 + French Language Pack for Visual Studio Code

@@ -12,14 +12,16 @@
 
 ### Configuration
 
-+ Améliorer les produits \[...\] données sur la manière dont vous utilisez le navigateur -> OFF
-+ Améliorez les recherches et les produits \[...\] informations sur les sites web que vous visitez -> OFF
-+ Améliorez votre expérience web en autorisant Microsoft à utiliser votre historique \[...\] d’autres services Microsoft -> OFF
-+ Autoriser les sites à vérifier si vous avez des modes de paiement enregistrés -> OFF
-+ Continuer à exécuter les applications en arrière-plan lorsque Microsoft Edge est fermé -> OFF
-+ Envoyer de demandes “Ne pas me suivre” -> ON
-+ Utiliser un service web pour aider à résoudre les erreurs de navigation -> OFF
-+ Suggérer des sites similaires lorsqu’un site web est introuvable -> OFF
+|DESCRIPTION|ÉTAT|
+|:--|:--:|
+|Améliorer les produits \[...\] données sur la manière dont vous utilisez le navigateur|❌|
+|Améliorez les recherches et les produits \[...\] informations sur les sites web que vous visitez|❌|
+|Améliorez votre expérience web en autorisant Microsoft à utiliser votre historique \[...\] d’autres services Microsoft|❌|
+|Autoriser les sites à vérifier si vous avez des modes de paiement enregistrés|❌|
+|Continuer à exécuter les applications en arrière-plan lorsque Microsoft Edge est fermé|❌|
+|Envoyer de demandes “Ne pas me suivre”|✔|
+|Utiliser un service web pour aider à résoudre les erreurs de navigation|❌|
+|Suggérer des sites similaires lorsqu’un site web est introuvable|❌|
 
 ### Extensions
 

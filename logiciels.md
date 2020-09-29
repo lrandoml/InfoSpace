@@ -1,7 +1,5 @@
 # Logiciels
 
-Petit listing des logiciels que j'utilise au quotidien, avec pour certains les configurations spécifiques pour mon usage.
-
 > **SOMMAIRE**
 > + [Edge Chromium](#edge-chromium)
 > + [Visual Studio Code](#visual-studio-code)

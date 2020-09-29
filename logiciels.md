@@ -10,19 +10,6 @@
 
 ![Logo d'Edge Chromium](https://nsa40.casimages.com/img/2020/09/01/200901085519215466.png)
 
-### Confidentialité, recherche et services
-
-#### Confidentialité
-
-+ Protection contre le suivi sur "Usage normal"
-+ Envoyer des demandes "Ne pas me suivre" : ON
-+ Autoriser les sites à vérifier si vous avez des modes de paiement enregistrés : OFF
-
-#### Contribuer à l’amélioration de Microsoft Edge
-
-+ Améliorer \[...\] envoyant des données sur la manière dont vous utilisez le navigateur : OFF
-+ Améliorez les recherches \[...\] envoyant des informations sur les sites web que vous visitez dans Microsoft Edge : OFF
-
 ### Extensions
 
 + BetterTTV

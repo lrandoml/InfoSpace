@@ -25,9 +25,9 @@
 
 ### Extensions
 
-+ BetterTTV
-+ Stylus
-+ uBlock Origin
++ [BetterTTV](https://betterttv.com/)
++ [Stylus](https://add0n.com/stylus.html)
++ [uBlock Origin](https://ublockorigin.com/fr)
 
 ---
 

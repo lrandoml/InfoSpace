@@ -1,8 +1,15 @@
 # Logiciels
 
 > **SOMMAIRE**
+> + [Discord](#discord)
 > + [Edge Chromium](#edge-chromium)
 > + [Visual Studio Code](#visual-studio-code)
+
+---
+
+## Discord
+
+![Logo de Discord](https://nsa40.casimages.com/img/2020/09/29/200929091822212346.png)
 
 ---
 

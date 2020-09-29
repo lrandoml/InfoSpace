@@ -19,7 +19,7 @@
 |Améliorez votre expérience web en autorisant Microsoft à utiliser votre historique \[...\] d’autres services Microsoft|❌|
 |Autoriser les sites à vérifier si vous avez des modes de paiement enregistrés|❌|
 |Continuer à exécuter les applications en arrière-plan lorsque Microsoft Edge est fermé|❌|
-|Envoyer de demandes “Ne pas me suivre”|✔|
+|Envoyer des demandes “Ne pas me suivre”|✔|
 |Utiliser un service web pour aider à résoudre les erreurs de navigation|❌|
 |Suggérer des sites similaires lorsqu’un site web est introuvable|❌|
 

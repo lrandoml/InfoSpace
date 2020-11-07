@@ -70,5 +70,6 @@
 
 + Apache Conf
 + French Language Pack for Visual Studio Code
++ LaTeX language support
 + OpenSSL Configurlation Syntax
 + The Netwide Assembler (NASM)

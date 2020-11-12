@@ -18,4 +18,11 @@
 
 ## Accessoires
 
-À venir...
++ **Webcam** : Logitech C920
++ **Interface** : Focusrite Scarlett 2i2 Studio (3e génération)
++ **Micros/perche** : Rode NT1-A + Rode NT-USB + Scarlett CM25 MKIII / Rode SM6
++ **Casques** : Beyerdynamic DT-770 Pro + Steelseries Arctis 3 + Scarlett HP60 MKIII
++ **Clavier** : KLIM Lightning
++ **Souris/tapis** : Logitech G300S / KKmoon 700x300x30mm
++ **Manette de jeux** : Microsoft Xbox 360 (filaire)
++ **Tablette graphique** : Huion Kamvas Pro 16

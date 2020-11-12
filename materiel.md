@@ -4,7 +4,8 @@
 
 ## Configuration PC
 
-+ **Boîtier** : Antec GX200
++ **Écran n°1** : Viewsonic VX2270S MH-LED
++ **Écran n°2** : Samsung SyncMaster 151s
 + **Carte mère** : Gigabyte G1 Sniper M5
 + **Processeur** : Intel Core i7 4770K Haswell (3.5GHz)
 + **Ventirad** : Be Quiet! Pure Rock (BK009)
@@ -12,7 +13,9 @@
 + **Stockage** : SSD Crucial BX500 2To + 2x SSHD Seagate Barracuda 2To
 + **Mémoire** : Kingston 32Go DDR3 à 1600MHz (CAS 9)
 + **Alimentation** : OCZ ZT Series 750W Bronze+
++ **Boîtier** : Antec GX200
++ **Onduleur** : Nitram PB650LCD
 
-## Périphériques
+## Accessoires
 
 À venir...

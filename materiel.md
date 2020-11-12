@@ -26,3 +26,8 @@
 + **Souris/tapis** : Logitech G300S / KKmoon 700x300x30mm
 + **Manette de jeux** : Microsoft Xbox 360 (filaire)
 + **Tablette graphique** : Huion Kamvas Pro 16
+
+## Supports mobiles
+
++ **Consoles de jeux** : Nintendo (3DS XL), Sony (PSPGo, PSVita, PS3)
++ **Smartphone** : Huawei Honor 6X (argent)
